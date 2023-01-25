@@ -1,0 +1,4 @@
+resource,used,available,unused
+machine_time,60000.0,60000,-0.0
+assembly_time,77580.0,77580,-0.0
+finishing_time,78360.0,78360,-0.0

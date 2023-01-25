@@ -1,0 +1,4 @@
+resource,cost per hour,savings per hour,max price
+machine_time,300,300.0,600.0
+assembly_time,120,120.0,240.0
+finishing_time,240,240.0,480.0

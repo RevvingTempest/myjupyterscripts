@@ -1,0 +1,9 @@
+filename,number of rows,number of columns
+production_planning.product.csv,6,6
+production_planning.resource.csv,3,3
+quality_control.defective.csv,11520,2
+quality_control.measurements.csv,5000,31
+quality_control.new_batches.csv,40,31
+customer_segmentation.train.csv,20000,51
+customer_segmentation.valid.csv,5000,51
+customer_segmentation.unlabeled.csv,60,51
